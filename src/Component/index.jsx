@@ -7,6 +7,7 @@ import Division from './division'
 const calculatorApp = () => {
   return (
     <div>
+      <h1>Calculator APP</h1>
       <Addition/>
       <Substraction/>
       <Division/>
