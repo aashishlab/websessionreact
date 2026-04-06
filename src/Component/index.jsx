@@ -17,7 +17,7 @@ const calculatorApp = () => {
 
   return (
     <div>
-            <h1>Calculator APP</h1>
+            <h1> Hello welcome to the Calculator APP</h1>
                     <div className="flex justify-center">
                 <div className="border-3 border-blue-900 rounded-xl shadow-2xl m-4 w-1/4">
                     <h1 className="bg-blue-900 text-center text-xl text-white rounded-t-md">Calculator App</h1>
