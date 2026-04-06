@@ -1,5 +1,15 @@
-let addition = (a, b) => {
-    return <p>This Addition Components</p>
+import Button from "./Button";
+
+
+
+let addition = ({x,y }) => {
+
+return (
+    
+   <Button  fn={}/>
+
+    )
 }
+
 
 export default addition;
